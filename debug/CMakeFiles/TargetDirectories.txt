@@ -1,0 +1,5 @@
+/Users/ben/Documents/gitrepos/C_GENERICS/debug/CMakeFiles/main.dir
+/Users/ben/Documents/gitrepos/C_GENERICS/debug/CMakeFiles/edit_cache.dir
+/Users/ben/Documents/gitrepos/C_GENERICS/debug/CMakeFiles/rebuild_cache.dir
+/Users/ben/Documents/gitrepos/C_GENERICS/debug/src/CMakeFiles/edit_cache.dir
+/Users/ben/Documents/gitrepos/C_GENERICS/debug/src/CMakeFiles/rebuild_cache.dir

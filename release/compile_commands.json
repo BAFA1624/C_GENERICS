@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/ben/Documents/gitrepos/C_GENERICS/release",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/ben/Documents/gitrepos/C_GENERICS/includes  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu17 -o CMakeFiles/main.dir/src/main.c.o -c /Users/ben/Documents/gitrepos/C_GENERICS/src/main.c",
+  "file": "/Users/ben/Documents/gitrepos/C_GENERICS/src/main.c"
+}
+]
